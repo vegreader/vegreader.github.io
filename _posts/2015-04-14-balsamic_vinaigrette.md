@@ -28,10 +28,9 @@ A beautifully tangy taste that ends up licked off the plate at our house, this s
 
 # See also
 
-The Dressings chapter of [Twelve months of monastery salads][monastery_salads] by [Brother Victor-Antoine d'Avila-Latourrette][avila-latourrette] has some amazing vinaigrettes.
+The Dressings chapter of [Twelve months of monastery salads][monastery_salads] by Brother Victor-Antoine d'Avila-Latourrette has some amazing vinaigrettes.
 
-[avila-latourrette]: http://www.bookdepository.com/author/Victor-Antoine-dAvila-Latourrette
-[monastery_salads]: http://www.bookdepository.com/Twelve-Months-Monastery-Salads-Victor-Antoine-dAvila-Latourrette/9781558322776
+[monastery_salads]: http://www.amazon.com/Twelve-Months-Monastery-Salads-Recipes/dp/1558323325?tag=vegreader-20
 
-[katzen]: http://www.bookdepository.com/author/Mollie-Katzen
-[moosewood]: http://www.bookdepository.com/Moosewood-Cookbook-Mollie-Katzen/9781607747390
+[katzen]: http://www.amazon.com/Mollie-Katzen/e/B000APA4VU?tag=vegreader-20
+[moosewood]: http://www.amazon.com/Moosewood-Cookbook-40th-Anniversary/dp/1607747391?tag=vegreader-20

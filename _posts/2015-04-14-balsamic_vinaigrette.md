@@ -7,19 +7,26 @@ tags:
 
 A beautifully tangy taste that ends up licked off the plate at our house, this simple dressing is a variant of the Sweet and Tart Mustard Dressing from [The new Moosewood cookbook][moosewood] by [Molly Katzen][katzen].
 
-#### Ingredients
+<p></p>
+
+# Ingredients
 
 * 1 Tbsp Dijon mustard
 * 2 Tbsp balsamic vinegar
 * 4 Tbsp olive oil
 
+<p></p>
 
-#### Preparation
+# Preparation
 
 1. Place the ingredients in a small bowl and whisk until homogeneous and creamy.
 1. Serve right after preparation, or refrigerate until needed (will require some more whisking in that case).
 
-#### See also
+<p></p>
+
+---
+
+# See also
 
 The Dressings chapter of [Twelve months of monastery salads][monastery_salads] by [Brother Victor-Antoine d'Avila-Latourrette][avila-latourrette] has some amazing vinaigrettes.
 
@@ -27,4 +34,4 @@ The Dressings chapter of [Twelve months of monastery salads][monastery_salads] b
 [monastery_salads]: http://www.bookdepository.com/Twelve-Months-Monastery-Salads-Victor-Antoine-dAvila-Latourrette/9781558322776
 
 [katzen]: http://www.bookdepository.com/author/Mollie-Katzen
-[moosewood]: http://www.bookdepository.com/Moosewood-Cookbook-Mollie-Katzen/9781580081306
+[moosewood]: http://www.bookdepository.com/Moosewood-Cookbook-Mollie-Katzen/9781607747390

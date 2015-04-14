@@ -1,0 +1,15 @@
+# Site settings
+title: VegReader Blog
+email: vegreader@gmail.com
+description: "Collection of vegetarian recipes"
+baseurl: ""
+url: "http://vegreader.github.io"
+github_username: "vegreader"
+twitter_username: "@vegreader"
+plus_username: "+Vegreader"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+paginate: 5

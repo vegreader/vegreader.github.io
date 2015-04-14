@@ -46,5 +46,5 @@ This delicious beverage is easy to make and so much better than what you would p
 * [Chai mix recipe][chai_mix]
 * [Traditional chai tea recipe][chai_tea]
 
-[chai_mix]: ../chai_mix
-[chai_tea]: ../chai_tea
+[chai_mix]: {% post_url 2015-04-14-chai_mix %}
+[chai_tea]: {% post_url 2015-04-14-chai_tea %}

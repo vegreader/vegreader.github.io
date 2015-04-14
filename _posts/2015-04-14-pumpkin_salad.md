@@ -35,4 +35,4 @@ This is a tasty destination for pumpkin, for those occasions when you have had e
 <p></p>
 
 
-[balsamic_vinaigrette]: ../balsamic_vinaigrette
+[balsamic_vinaigrette]: {% post_url 2015-04-14-balsamic_vinaigrette %}
